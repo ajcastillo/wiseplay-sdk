@@ -16,7 +16,7 @@ repositories {
 }
  
 dependencies {
-    compile 'com.github.lowlevel-studios:wiseplay-sdk:1.1.0'
+    compile 'com.github.lowlevel-studios:wiseplay-sdk:1.1.1'
 }
 ```
 
